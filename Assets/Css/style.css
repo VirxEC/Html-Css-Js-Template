@@ -1,7 +1,10 @@
-body{
+body {
     margin: 0;
     padding: 0;
     background: #101014;
     color: #ffffff;
 }
-a{text-decoration: none;}
+a, a:visited {
+    text-decoration: none;
+    color: #0c63f0
+}
