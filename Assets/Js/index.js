@@ -1,3 +1,5 @@
+console.info("Loaded script")
+
 function test() {
-    console.log("JavaScript is working!")
+    alert("Yep, this works!")
 }
